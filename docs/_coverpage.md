@@ -11,5 +11,5 @@
 - 简洁
 
 [项目来源](https://github.com/docsifyjs/docsify/)
-[GitHub](https://github.com/CH4019/AjzuHelp/)
+[GitHub](https://github.com/CH4019/AhjzuHelp/)
 [开始](#docsify)
