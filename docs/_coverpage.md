@@ -6,9 +6,9 @@
 
 > 一个服务于建大的个人校园答疑 WiKi.
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[开始](#docsify)
+- 方便
+- 便捷
+- 简洁
+  [项目模板来源](https://github.com/docsifyjs/docsify/)
+  [GitHub](https://github.com/CH4019/AjzuHelp)
+  [开始](#docsify)

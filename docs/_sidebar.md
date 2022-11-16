@@ -4,7 +4,7 @@
 
   - [主页](README.md)
 
-- Getting started
+- 测试
 
   - [Cover page](cover.md)
 
