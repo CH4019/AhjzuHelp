@@ -27,7 +27,7 @@ Check out the [Showcase](https://github.com/docsifyjs/awesome-docsify#showcase) 
 
 ## Donate
 
-Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee](https://github.com/QingWei-Li/donate). :heart:
+Please consider donating if you think docsify is helpful to you or that my work is valuable. I am happy if you can help me [buy a cup of coffee]. :heart:
 
 ## Community
 
