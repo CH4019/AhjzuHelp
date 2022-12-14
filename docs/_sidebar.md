@@ -4,11 +4,11 @@
 
   - [主页](README.md)
 
-- 测试
+- 选课相关/Course selection
 
-  - [Cover page](cover.md)
+  - [选课问题/Course selection questions](Courseselectionquestions.md)
 
-- 测试
+- 课程老师推荐
   - [1](1.md)
   - [2](2.md)
   - [3](3.md)
