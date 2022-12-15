@@ -2,7 +2,7 @@
 
 ![logo](_media\icon.svg)
 
-# 建大助手 <small>0.1</small>
+# 建大助手 <small>0.1.2</small>
 
 > 一个服务于建大的个人校园答疑 WiKi.
 
