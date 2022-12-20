@@ -3,6 +3,7 @@
 - Home
 
   - [主页](README.md)
+  - [项目组介绍](Iotpt.md)
 
 - 选课相关/Course selection
 
