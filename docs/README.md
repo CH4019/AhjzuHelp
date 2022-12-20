@@ -35,7 +35,6 @@ AhjzuHelp Wiki uses [Docsify](https://docsify.js.org/) to build, related technic
 - 加入[项目组频道](https://pd.qq.com/s/fb4hyfdm1)（QQ 频道或项目组群）(必须要求)
 - 会写 md 文件(非必需)
 - 会核对成员书写的文件内容(文本格式)(非必需)
-- 其他待补充(除第一点外最少满足一点)
 
 ## Conditions of Participation
 
