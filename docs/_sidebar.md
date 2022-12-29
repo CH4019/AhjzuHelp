@@ -5,7 +5,7 @@
   - [主页](README.md)
   - [项目组介绍](Iotpt.md)
 
-  - 校园网络相关介绍
+- 校园网络相关介绍
   - [校园网相关](xyw.md)
 
 - 选课相关/Course selection
