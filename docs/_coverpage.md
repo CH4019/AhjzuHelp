@@ -10,6 +10,6 @@
 - 便捷
 - 简洁
 
-  [项目模板来源](https://github.com/docsifyjs/docsify/)
-  [GitHub](https://github.com/CH4019/AjzuHelp)
-  [开始](#docsify)
+[项目模板来源](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/CH4019/AjzuHelp)
+[开始](#docsify)
